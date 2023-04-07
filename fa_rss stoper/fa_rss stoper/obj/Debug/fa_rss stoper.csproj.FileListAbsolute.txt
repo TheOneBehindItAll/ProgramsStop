@@ -1,0 +1,10 @@
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\bin\Debug\fa_rss stoper.exe.config
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\bin\Debug\fa_rss stoper.exe
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\bin\Debug\fa_rss stoper.pdb
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.csproj.AssemblyReference.cache
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss_stoper.Form1.resources
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss_stoper.Properties.Resources.resources
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.csproj.GenerateResource.cache
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.csproj.CoreCompileInputs.cache
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.exe
+C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.pdb

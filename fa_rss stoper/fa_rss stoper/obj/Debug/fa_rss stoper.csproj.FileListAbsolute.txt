@@ -8,3 +8,13 @@ C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper
 C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.csproj.CoreCompileInputs.cache
 C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.exe
 C:\Users\Gibson\source\repos\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.pdb
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\bin\Debug\fa_rss stoper.exe.config
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\bin\Debug\fa_rss stoper.exe
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\bin\Debug\fa_rss stoper.pdb
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.csproj.AssemblyReference.cache
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss_stoper.Form1.resources
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss_stoper.Properties.Resources.resources
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.csproj.GenerateResource.cache
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.csproj.CoreCompileInputs.cache
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.exe
+D:\Programs\GItHub\ProgramsStop\fa_rss stoper\fa_rss stoper\obj\Debug\fa_rss stoper.pdb

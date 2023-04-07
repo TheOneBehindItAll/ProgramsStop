@@ -25,7 +25,12 @@ namespace fa_rss_stoper
         private void Form1_Load(object sender, EventArgs e)
         {
             InitTimer();
-            //this.ShowInTaskbar = false;
+            textBox2.Text = Properties.Settings.Default.ProgramOne;
+            textBox6.Text = Properties.Settings.Default.ProgramTwo;
+            textBox8.Text = Properties.Settings.Default.ProgramThree;
+            textBox10.Text = Properties.Settings.Default.ProgramFour;
+            textBox12.Text = Properties.Settings.Default.ProgramFive;
+            textBox14.Text = Properties.Settings.Default.ProgramSix;
         }
         public void InitTimer()
         {
@@ -59,15 +64,29 @@ namespace fa_rss_stoper
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-          //  if(textBox2.Text == "Program Name Here:")
-           // {
-            //    textBox2.Text = "";
-            //}
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //save
+            Properties.Settings.Default.ProgramOne = textBox2.Text;
+            Properties.Settings.Default.ProgramTwo = textBox6.Text;
+            Properties.Settings.Default.ProgramThree = textBox8.Text;
+            Properties.Settings.Default.ProgramFour = textBox10.Text;
+            Properties.Settings.Default.ProgramFive = textBox12.Text;
+            Properties.Settings.Default.ProgramSix = textBox14.Text;
+            Properties.Settings.Default.Save();
         }
     }
 }

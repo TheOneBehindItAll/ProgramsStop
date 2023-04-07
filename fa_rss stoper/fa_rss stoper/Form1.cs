@@ -12,7 +12,6 @@ using System.Runtime.InteropServices;
 
 namespace fa_rss_stoper
 {
-   
     public partial class Form1 : Form
     {
         private Timer timer1;

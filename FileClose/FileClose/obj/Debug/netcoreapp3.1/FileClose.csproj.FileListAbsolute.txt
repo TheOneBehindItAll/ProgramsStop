@@ -1,0 +1,17 @@
+C:\Users\Gibson\source\repos\FileClose\FileClose\bin\Debug\netcoreapp3.1\FileClose.exe
+C:\Users\Gibson\source\repos\FileClose\FileClose\bin\Debug\netcoreapp3.1\FileClose.deps.json
+C:\Users\Gibson\source\repos\FileClose\FileClose\bin\Debug\netcoreapp3.1\FileClose.runtimeconfig.json
+C:\Users\Gibson\source\repos\FileClose\FileClose\bin\Debug\netcoreapp3.1\FileClose.runtimeconfig.dev.json
+C:\Users\Gibson\source\repos\FileClose\FileClose\bin\Debug\netcoreapp3.1\FileClose.dll
+C:\Users\Gibson\source\repos\FileClose\FileClose\bin\Debug\netcoreapp3.1\FileClose.pdb
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.csproj.AssemblyReference.cache
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.Form1.resources
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.csproj.GenerateResource.cache
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.AssemblyInfoInputs.cache
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.AssemblyInfo.cs
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.csproj.CoreCompileInputs.cache
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.dll
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.pdb
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.genruntimeconfig.cache
+C:\Users\Gibson\source\repos\FileClose\FileClose\obj\Debug\netcoreapp3.1\FileClose.Properties.Resources.resources

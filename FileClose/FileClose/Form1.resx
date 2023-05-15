@@ -1,0 +1,78 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Error. MEME has faced a critical error while exacuting this program.
+ if you would like to contact the creator of this exacutable file please call customor support for MEME.inc 
+WARNING DO NOT RESTART YOUR COMPUTER DOING SO MAY PROCEED TO CAUSE DAMAGE TO YOURSYSTEM
+
+Error code: 
+345416241623565165451365446541465514675675867567673445462342
+34342141231454432484685546554175564565846754885447834
+458324452444244284536454754876749740167419856143154213544f121v
+4v51561n5145121421441151456171781749179174184645434412413121
+214ad141jty1t41u1j4tr1y45t2652w5tge5g52ew95g2w5g52hg5tr41urh52ew5f
+5wef845h8r5j8r52bn5kuiy8l5y8kf58ge58f5w8f5ws85f85v5r21th5t1y4k1y1k8te/g
+*wf8w5fs8f5w45f1w95g1r9eh15rt1jh4r1j4f1k41utk4fnijfqewrjunoifewruhy
+gtr5ejuhfgrjhfdrgjuhfdgtrvjhnjuhnffjuhgrg41gw41fg8er1gw541f59e1f5er1gers
+g15fd54851927137963756236929552th85serh54w8544874248465t6y5841y5tr841y5w
+tr84t65y4t54641t6y541t6y5t6y5
+Please enter this code into the dubug menu to safly restart your computer </value>
+  </data>
+</root>
